@@ -29,7 +29,7 @@ Then we will add the following auth code there:
  "oauthScopes": [
    "https://www.googleapis.com/auth/datastore",
    "https://www.googleapis.com/auth/script.external_request",
-   "https://www.googleapis.com/auth/spreadsheets"
+   "https://www.googleapis.com/auth/spreadsheets",
 ],
 
 
